@@ -2,7 +2,7 @@
 #### I am Oracle APEX Developer
 
 
-I made ATM Transaction software in Bkash
+I made software in Bkash
 And I develop ERP in Ratanpur Group with Oracle APEX.
 I addition to this I have done Lawsuit apps in S. Alam Group
 
