@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Abdullah
 #### I am Oracle APEX Developer
-![I am Oracle APEX Developer](https://scontent.fcgp7-1.fna.fbcdn.net/v/t39.30808-6/292893513_2217957325019786_4088146850665140461_n.jpg?stp=dst-jpg_p720x720&_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHfQqSbCAKwvyh_uRYe9H9hwycnlXalNm_DJyeVdqU2bz_2opuC0Df0G-PcEgz90goQC4M3WZJDlGvZbD7O5VpT&_nc_ohc=-EW9f8OisVQAX_1DsT_&_nc_ht=scontent.fcgp7-1.fna&oh=00_AT9YFnCT4mYnUOA_LUmA6K0i-pUdwLTUT1zE_F1mlqb9xA&oe=62CD711C)
+
 
 I made ATM Transaction software in Bkash
 And I develop ERP in Ratanpur Group with Oracle APEX.
