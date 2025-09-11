@@ -1,24 +1,40 @@
-### Hi there 👋, I'm Abdullah  
-#### Oracle ACE Associate | Oracle APEX Developer  
+Oracle ACE Associate | Oracle APEX Developer | Software Engineer
 
-🏆 **Proud Oracle ACE Associate Awardee**  
+🏆 Proud Oracle ACE Associate Awardee
 
-💼 **Career Journey:**  
-- **Head of IT** – Parchii (Indian IT Company) *(Current)*  
-- **Software Engineer** – S. Alam Group  
-- **IT Manager** – Ratanpur Group  
+💼 Career Journey:
 
-I made software in Bkash, and I develop ERP in Ratanpur Group with Oracle APEX.  
-In addition to this, I have done Lawsuit apps in S. Alam Group.  
+Head of IT – Parchii (Indian IT Company) (Current)
 
-**Skills:** ORACLE APEX / SQL / JS / HTML / CSS  
+Software Engineer – S. Alam Group
 
-- 🔭 I’m currently working on RSRM  
-- 🌱 I’m currently learning Oracle APEX  
-- 👯 I’m looking to collaborate on GitHub  
-- 🤔 I’m looking for help with Oracle APEX  
-- 💬 Ask me about Oracle APEX  
-- 📫 How to reach me: [facebook.com/bqmamun](https://facebook.com/bqmamun)  
+IT Manager – Ratanpur Group
+
+👨‍💻 With 12+ years of experience as a Software Engineer, I specialize in:
+
+Oracle Database Development
+
+Oracle APEX Applications
+
+ERP Systems Design & Implementation
+
+Solving complex enterprise problems with SQL, PL/SQL, and custom architectures.
+
+I have built ERP solutions in Ratanpur Group using Oracle APEX, developed software in bKash, and delivered specialized lawsuit apps for S. Alam Group.
+
+Core Skills: ORACLE APEX / SQL / PL/SQL / Database Design / JS / HTML / CSS
+
+🔭 Currently working on RSRM projects
+
+🌱 Continuously learning advanced Oracle APEX & Database features
+
+👯 Open to collaboration on GitHub and Oracle community projects
+
+🤔 Always interested in solving challenging enterprise ERP/database problems
+
+💬 Ask me about Oracle APEX, ERP Design, or Oracle Database Optimization
+
+📫 Reach me at: facebook.com/bqmamun
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg' alt='fiverr' height='40'>](https://www.fiverr.com/orclapex) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/benqmamun) 
