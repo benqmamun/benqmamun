@@ -36,6 +36,8 @@ Core Skills: ORACLE APEX / SQL / PL/SQL / Database Design / JS / HTML / CSS
 
 📫 Reach me at: facebook.com/bqmamun
 
+🎥 **Check out my YouTube channel for Oracle APEX tutorials:** [OracleApexbd](https://www.youtube.com/OracleApexbd)
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg' alt='fiverr' height='40'>](https://www.fiverr.com/orclapex) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/benqmamun) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bqmamun/) 
